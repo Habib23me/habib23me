@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habib23me" alt="habib23me" /></a> </p>
 
-- 🔭 I’m currently working on [upwork](https://www.upwork.com/freelancers/habib23me)
+- 🔭 I’m currently working on [upwork](https://www.upwork.com/freelancers/~01ac7f2be581f23652)
 
 - 🌱 I’m currently learning **Swift, Kotlin and Jetpack**
 
