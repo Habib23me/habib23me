@@ -28,7 +28,7 @@ Beyond development, I lead a Flutter Dev Community called Flutter Mastery, helpi
 
 ## Habib Mohammed's GitHub Stats
 
-<p align="center">
+<p>
   <a href="https://github.com/habib23me/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=habib23me&show_icons=true&theme=default&hide_border=true" alt="Habib's github stats" width="58%" />
   </a>
