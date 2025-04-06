@@ -32,9 +32,6 @@ Beyond development, I lead a Flutter Dev Community called Flutter Mastery, helpi
   <a href="https://github.com/habib23me/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=habib23me&show_icons=true&theme=default&hide_border=true" alt="Habib's github stats" width="58%" />
   </a>
-  <a href="https://github.com/habib23me">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib23me&layout=compact&theme=default&hide_border=true" width="38%" />
-  </a>
 </p>
 
 ## Most Used Languages
