@@ -1,40 +1,73 @@
-<h1 align="center">Hi 👋, I'm Habib Mohammed</h1>
-<h3 align="center">A passionate flutter developer from Ethiopia</h3>
+# Hi 👋, I'm Habib Mohammed
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habib23me" alt="habib23me" /></a> </p>
+## Experienced Mobile App Developer
 
-- 🔭 I’m currently working on [upwork](https://www.upwork.com/freelancers/~01ac7f2be581f23652)
+I'm a passionate Flutter developer from Ethiopia running an agency at Whales Technology. I specialize in creating robust mobile applications and regularly share knowledge through technical articles to help aspiring developers learn and grow.
 
-- 🌱 I’m currently learning **Swift, Kotlin and Jetpack**
+Beyond development, I lead a Flutter Dev Community called Flutter Mastery, helping connect developers and share expertise. Additionally, I'm currently expanding my skills in Swift, Kotlin, and Jetpack.
 
-- 💼 Running agency at [Whales Technology](https://whaletechnologies.com/)
+## Experienced in
 
-- 🫂 My Flutter Dev Community [Flutter Mastery](https://t.me/flutter_mastery)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [habibmohammed.com](habibmohammed.com)
+## Follow me on
 
-- 📝 I regularly write articles on [medium.com/@habib23me](medium.com/@habib23me)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/habib23me)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/theappbaker)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@habib23me)
 
-- 💬 Ask me about **Flutter**
+## Highlighted Articles
 
-- 📫 How to reach me **habib23me@gmail.com**
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@habib23me/master-flutter-from-beginner-to-pro-664994db8a44">
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Zp3H5YjWegKp5AsA-Mz9_w.png" width="100%">
+        <br>
+        <b>Master Flutter from Beginner to Pro</b>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@habib23me/the-dots-and-question-marks-of-darts-bccfc759d129">
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*F4f7ahtZAPupzX5-hzTDmw.png" width="100%">
+        <br>
+        <b>The Dots and Question Marks of Dart's</b>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@habib23me/handling-state-in-telegraf-explained-easily-d8d53a336c4c">
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*bO3KS3BcC26LcVdiiYCRjQ.png" width="100%">
+        <br>
+        <b>Handling State in Telegraf Explained Easily</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences [habibmohammed.com](habibmohammed.com)
+## Habib Mohammed's GitHub Stats
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/theappbaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theappbaker" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/habib23me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habib23me" height="30" width="40" /></a>
-<a href="https://medium.com/@habib23me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@habib23me" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/habib23me/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=habib23me&show_icons=true&theme=default&hide_border=true" alt="Habib's github stats" width="58%" />
+  </a>
+  <a href="https://github.com/habib23me">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habib23me&layout=compact&theme=default&hide_border=true" width="38%" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Most Used Languages
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=habib23me&show_icons=true&locale=en&layout=compact" alt="habib23me" /></p>
-<p><img align="center" src="https://github.com/Habib23me/habib23me/blob/main/2024%20Year%20in%20Code.png?raw=true" alt="habib23me"/></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habib23me&show_icons=true&locale=en&layout=compact" alt="habib23me" />
+</p>
 
+## Connect with me:
+- 🔭 I'm currently working on [upwork](https://www.upwork.com/freelancers/~01ac7f2be581f23652)
+- 💼 Running agency at [Whales Technology](https://whaletechnologies.com/)
+- 🫂 My Flutter Dev Community [Flutter Mastery](https://t.me/flutter_mastery)
+- 👨‍💻 All of my projects are available at [habibmohammed.com](https://habibmohammed.com)
+- 📝 I regularly write articles on [medium.com/@habib23me](https://medium.com/@habib23me)
+- 📫 How to reach me: **habib23me@gmail.com**
