@@ -21,31 +21,10 @@ Beyond development, I lead a Flutter Dev Community called Flutter Mastery, helpi
 
 ## Highlighted Articles
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://medium.com/@habib23me/master-flutter-from-beginner-to-pro-664994db8a44">
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Zp3H5YjWegKp5AsA-Mz9_w.png" width="100%">
-        <br>
-        <b>Master Flutter from Beginner to Pro</b>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://medium.com/@habib23me/the-dots-and-question-marks-of-darts-bccfc759d129">
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*F4f7ahtZAPupzX5-hzTDmw.png" width="100%">
-        <br>
-        <b>The Dots and Question Marks of Dart's</b>
-      </a>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://medium.com/@habib23me/handling-state-in-telegraf-explained-easily-d8d53a336c4c">
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*bO3KS3BcC26LcVdiiYCRjQ.png" width="100%">
-        <br>
-        <b>Handling State in Telegraf Explained Easily</b>
-      </a>
-    </td>
-  </tr>
-</table>
+- 📝 [Master Flutter from Beginner to Pro](https://medium.com/@habib23me/master-flutter-from-beginner-to-pro-664994db8a44) - A comprehensive guide to Flutter development from first steps to advanced techniques.
+- 📝 [The Dots and Question Marks of Dart's](https://medium.com/@habib23me/the-dots-and-question-marks-of-darts-bccfc759d129) - Exploring Dart's syntax features and special operators.
+- 📝 [Handling State in Telegraf Explained Easily](https://medium.com/@habib23me/handling-state-in-telegraf-explained-easily-d8d53a336c4c) - A clear explanation of state management in Telegraf.
+
 
 ## Habib Mohammed's GitHub Stats
 
