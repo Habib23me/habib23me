@@ -2,9 +2,9 @@
 
 ## Experienced Mobile App Developer
 
-I'm a passionate Flutter developer from Ethiopia running an agency at Whales Technology. I specialize in creating robust mobile applications and regularly share knowledge through technical articles to help aspiring developers learn and grow.
+I am a Freelance Full-Stack Developer and Technical Consultant. I’m highly skilled in Flutter, React, and Node.js framework.
 
-Beyond development, I lead a Flutter Dev Community called Flutter Mastery, helping connect developers and share expertise. Additionally, I'm currently expanding my skills in Swift, Kotlin, and Jetpack.
+Beyond coding, I offer strategic advice on app development, App Store/Play Store reviews, monetization strategy, and analytics/attribution solutions.
 
 ## Experienced in
 
