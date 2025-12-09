@@ -41,4 +41,4 @@ Beyond coding, I offer strategic advice on app development, App Store/Play Store
 - 🫂 My Flutter Dev Community [Flutter Mastery](https://t.me/flutter_mastery)
 - 👨‍💻 All of my projects are available at [habibmohammed.com](https://habibmohammed.com)
 - 📝 I regularly write articles on [medium.com/@habib23me](https://medium.com/@habib23me)
-- 📫 How to reach me: **habib23me@gmail.com**
+- 📫 How to reach me: **habib@whalestechnology.com**
