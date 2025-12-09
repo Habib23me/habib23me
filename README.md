@@ -31,8 +31,6 @@ Beyond coding, I offer strategic advice on app development, App Store/Play Store
 <p>
   <a href="https://github.com/habib23me/github-readme-stats">
     <img width="359" height="604" alt="Screenshot 2025-12-09 at 4 57 26 PM" src="https://github.com/user-attachments/assets/f7a4a898-8d94-45f5-a6bb-eabd4634f143" />
-
-    <img src="https://github.com/Habib23me/habib23me/blob/main/2024%20Year%20in%20Code.png?raw=true" alt="Habib's github stats" width="58%" />
   </a>
 </p>
 
