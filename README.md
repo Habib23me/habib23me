@@ -34,11 +34,6 @@ Beyond coding, I offer strategic advice on app development, App Store/Play Store
   </a>
 </p>
 
-## Most Used Languages
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habib23me&show_icons=true&locale=en&layout=compact" alt="habib23me" />
-</p>
 
 ## Connect with me:
 - 🔭 I'm currently working on [upwork](https://www.upwork.com/freelancers/~01ac7f2be581f23652)
