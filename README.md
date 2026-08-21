@@ -25,4 +25,4 @@ No app-specific integration. No brittle automation script. The agent uses the sa
 
 ---
 
-I’m a Fractional CTO for DTC health and wellness brands, with eight years of experience shipping and scaling consumer products. I’m also building Rove. If you’re working on mobile agents or have a phone task you wish AI could handle, [talk to me on X](https://x.com/habibmohammed_) or email **habib@whalestechnology.com**.
+I’m a Fractional  for DTC health & fitness and prop tech founders, with eight years of experience building and scaling consumer products. I’m also building Rove as side fun project. [talk to me on X](https://x.com/habibmohammed_) or email **habib@whalestechnology.com**.
