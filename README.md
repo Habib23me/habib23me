@@ -1,44 +1,28 @@
-# Hi 👋, I'm Habib Mohammed
+<div align="center">
 
-## Experienced Mobile App Developer
+# I’m Habib. I’m building Rove.
 
-I am a Freelance Full-Stack Developer and Technical Consultant. I’m highly skilled in Flutter, React, and Node.js framework.
+### Give your AI agent a phone.
 
-Beyond coding, I offer strategic advice on app development, App Store/Play Store reviews, monetization strategy, and analytics/attribution solutions.
+Rove lets Claude and Codex see, tap, type, and complete work inside real mobile apps.
 
-## Experienced in
+[**Try Rove →**](https://roveflow.dev) &nbsp; [GitHub](https://github.com/roveflow/roveflow) &nbsp; [X](https://x.com/habibmohammed_)
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+</div>
 
-## Follow me on
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/habib23me)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/theappbaker)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@habib23me)
+## Automate the work trapped inside mobile apps
 
-## Highlighted Articles
+- Connect a real iPhone
+- Describe what you want done
+- Watch the agent navigate, gather data, and complete the task
+- Interrupt or steer it at any time
 
-- 📝 [Master Flutter from Beginner to Pro](https://medium.com/@habib23me/master-flutter-from-beginner-to-pro-664994db8a44) - A comprehensive guide to Flutter development from first steps to advanced techniques.
-- 📝 [The Dots and Question Marks of Dart's](https://medium.com/@habib23me/the-dots-and-question-marks-of-darts-bccfc759d129) - Exploring Dart's syntax features and special operators.
-- 📝 [Handling State in Telegraf Explained Easily](https://medium.com/@habib23me/handling-state-in-telegraf-explained-easily-d8d53a336c4c) - A clear explanation of state management in Telegraf.
+No app-specific integration. No brittle automation script. The agent uses the same screen you do.
 
+**[See it in action at roveflow.dev](https://roveflow.dev)**
 
-## Habib Mohammed's GitHub Stats
+---
 
-<p>
-  <a href="https://github.com/habib23me/github-readme-stats">
-    <img width="359" height="604" alt="Screenshot 2025-12-09 at 4 57 26 PM" src="https://github.com/user-attachments/assets/f7a4a898-8d94-45f5-a6bb-eabd4634f143" />
-  </a>
-</p>
-
-
-## Connect with me:
-- 🔭 I'm currently working on [upwork](https://www.upwork.com/freelancers/~01ac7f2be581f23652)
-- 💼 Running agency at [Whales Technology](https://whaletechnologies.com/)
-- 🫂 My Flutter Dev Community [Flutter Mastery](https://t.me/flutter_mastery)
-- 👨‍💻 All of my projects are available at [habibmohammed.com](https://habibmohammed.com)
-- 📝 I regularly write articles on [medium.com/@habib23me](https://medium.com/@habib23me)
-- 📫 How to reach me: **habib@whalestechnology.com**
+I’m a mobile developer based in Dubai. If you’re building with mobile agents—or have a phone task you wish AI could handle—[talk to me on X](https://x.com/habibmohammed_) or email **habib@whalestechnology.com**.
